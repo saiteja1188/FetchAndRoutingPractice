@@ -1,0 +1,20 @@
+/* Write your CSS code here */
+.blog-item-details-container {
+  padding: 50px;
+}
+.blog-title {
+  padding-left: 50px;
+}
+.avatar-container {
+  margin-bottom: 10px;
+}
+.blog-details-img {
+  width: 80%;
+  height: 300px;
+  border-radius: 5px;
+}
+.blog-content {
+  color: #2f4f4f;
+  font-family: roboto;
+  font-size: 24px;
+}
